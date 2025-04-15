@@ -4,6 +4,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-openjdk:21
-nacos/nacos-server:latest
---platform=linux/amd64 nacos/nacos-server:2.5.1
+--platform=linux/arm64 openjdk:21
+#--platform=linux/arm64 nacos/nacos-server:latest
+--platform=linux/amd64 nacos/nacos-server:2.2.1
