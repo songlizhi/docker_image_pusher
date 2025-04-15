@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 openjdk:21
 #--platform=linux/arm64 nacos/nacos-server:latest
---platform=linux/amd64 nacos/nacos-server:2.2.1
+--platform=linux/amd64 nacos/nacos-server:2.5.1
