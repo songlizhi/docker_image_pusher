@@ -8,7 +8,7 @@
 #--platform=linux/arm64 nacos/nacos-server:latest
 #--platform=linux/amd64 nacos/nacos-server:2.5.0
 #--platform=linux/amd64 nacos/nacos-server:2.4.3
---platform=linux/amd64 nacos/nacos-server:2.4.2
+#--platform=linux/amd64 nacos/nacos-server:2.4.2
 --platform=linux/amd64 nacos/nacos-server:2.4.1
 --platform=linux/amd64 nacos/nacos-server:2.4.0
 --platform=linux/amd64 nacos/nacos-server:2.3.2
