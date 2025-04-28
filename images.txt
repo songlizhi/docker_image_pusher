@@ -12,4 +12,4 @@
 #nacos/nacos-server:latest
 #--platform=linux/amd64 nacos/nacos-server:2.5.0
 #openzipkin/zipkin:latest
-pingcap/tidb:v8.5.1
+#pingcap/tidb:v8.5.1
