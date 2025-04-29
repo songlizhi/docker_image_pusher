@@ -13,3 +13,9 @@
 #--platform=linux/amd64 nacos/nacos-server:2.5.0
 #openzipkin/zipkin:latest
 #pingcap/tidb:v8.5.1
+pingcap/pd:v8.5.1
+pingcap/tikv:v8.5.1
+prom/prometheus:v2.45.2
+grafana/grafana:10.2.3
+quay.io/prometheus/node-exporter:v1.7.0
+prom/pushgateway:v1.6.2
